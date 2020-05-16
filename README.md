@@ -6,7 +6,7 @@ Requires GIT and Node.js to build a stand-alone Electron application
 3. Run "npm install"
 4. Run "npm run build-osx"
 ```
-debuging tricks for Chrome developer tools (toogle in main.js):
+Debuging tricks for Chrome developer tools console (toogle in main.js):
 ```
 process.platform
 navigator.plugins
