@@ -1,5 +1,5 @@
 # Packaged Electron Example for Dan
-Requires node.js to build a stand-alone Electron application
+Requires GIT and Node.js to build a stand-alone Electron application
 ```
 1. Clone (git clone https://github.com/erikherz/dan.git)
 2. Run "cd dan"
